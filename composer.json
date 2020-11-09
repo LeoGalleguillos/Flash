@@ -1,4 +1,5 @@
 {
+    "abandoned": "monthly-basis/flash",
     "name": "leo-galleguillos/flash",
     "license": "MIT",
     "require": {
